@@ -1,0 +1,83 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Ye Album theme",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.png",
+      "theme_frame": "theme_frame.png",
+      "theme_tab_background": "Empty.png"
+    },
+    
+    "colors": {
+      "button_background": [255, 255, 255],
+      "ntp_background": [
+        255,
+        255,
+        255
+      ],
+      "tab_text": [
+        41,
+        231,
+        83
+      ],
+      "tab_background_text": [
+        255,255,255
+      ],
+      "bookmark_text": [
+        41,
+        231,
+        83
+      ],
+      "ntp_text": [
+        41,
+        231,
+        83
+      ],
+      "ntp_link": [
+        186,
+        255,
+        201
+      ],
+      "ntp_header": [
+        41,
+        231,
+        83
+      ],
+      "toolbar": [
+        19,
+        43,
+        64
+      ],
+      "toolbar_text": [
+        41,
+        231,
+        83
+      ],
+      "button_background": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "omnibox_background": [
+        45, 77, 105
+      ],
+      "omnibox_text": [
+        41,
+        231,
+        83
+      ],
+      "toolbar_button_icon": [
+        41,
+        231,
+        83
+      ]
+    },
+    "tints": {},
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
